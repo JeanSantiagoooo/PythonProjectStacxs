@@ -1,4 +1,4 @@
-# Algoritimo 001: Idade e Peso
+# Algoritimo 002: Idade e Peso
 # Dev: Jean Santiago
 # Data: 12/08/2022
 

@@ -7,7 +7,7 @@
 HorasExtra = (float(input("Digite o numero de horas extras:")))
 HorasFalta = (float(input("digite o numero de faltas:")))
 MinutosTotal = ((HorasExtra) - (2/3*(HorasFalta))) * 60
-print(MinutosTotal)
+print("Total de minutos", MinutosTotal)
 if(MinutosTotal > 2400):
     print("O seu premio é de R$ 500,00.")
 elif(MinutosTotal >= 1801 and MinutosTotal <= 2400):
