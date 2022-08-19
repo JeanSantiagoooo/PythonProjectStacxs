@@ -60,7 +60,47 @@ print(77 != 77)  #False
 # > True, se A é maior que B são diferentes
 print(77 > 9)  #True
 
-# > True, se A é maior que B são diferentes
+# >, <, >=, <=
+print(77 > 9)  # True
+print(7 > 9)   # False
+print(7 < 9)   # True
+print(7 <= 9)  # True
+print(7 <= 7)  # True
+print(7 >= 7)  # True
+print(7 >= 10) # False
+
+# Operadores de atribução
+# = dade uma varmen que quer atribuir um valor
+
+x = 90
+print(x)
+# incrementar +=
+x += 2
+print(x)
+#Decrementar -=
+x -= 10
+print(x)
+#divisão x 10 /=
+x /= 10
+print(x)
+#Div x 10 //=
+x = 20
+x //= 10
+print(x)
+
+#Mod x 10 //=
+x = 20
+x %= 10
+print(x)
+
+# Multiplicção x 10 *=
+x = 20
+x *= 10
+print(x)
+
+print(2 + 3 * 5 + 30 // 10)
+
+
 
 
 
